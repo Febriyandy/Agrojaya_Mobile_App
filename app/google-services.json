@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803689010289",
+    "project_id": "agrojaya-a6b68",
+    "storage_bucket": "agrojaya-a6b68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803689010289:android:f4a1dc742813ecaf3a37d0",
+        "android_client_info": {
+          "package_name": "com.febriandi.agrojaya"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmHEtz6xd2nXZKeTRJ1f9JXiIoFQSG9YY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="green_50">#FFF1FCF1</color>
+    <color name="green_100">#FFE0F9DF</color>
+    <color name="green_200">#FFC2F1C1</color>
+    <color name="green_300">#FF92E491</color>
+    <color name="green_400">#FF5ACF59</color>
+    <color name="green_500">#FF34B433</color>
+    <color name="green_600">#FF228B22</color>
+    <color name="green_700">#FF207521</color>
+    <color name="green_800">#FF1E5D1F</color>
+    <color name="green_900">#FF1A4D1B</color>
+    <color name="natural_100">#FFEFEFEF</color>
+    <color name="natural_200">#FFDCDCDC</color>
+    <color name="natural_300">#FFBDBDBD</color>
+    <color name="natural_400">#FF989898</color>
+    <color name="natural_500">#FF7C7C7C</color>
+    <color name="natural_600">#FF656565</color>
+    <color name="natural_700">#FF525252</color>
+    <color name="natural_800">#FF464646</color>
+    <color name="natural_900">#FF3D3D3D</color>
+    <color name="natural_950">#FF292929</color>
+    <color name="text_color">#FF1E232C</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="fill_form">#FFF7F8F9</color>
+    <color name="stroke_form">#FFE8ECF4</color>
+
+
+</resources>
